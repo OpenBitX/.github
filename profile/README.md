@@ -1,4 +1,5 @@
 <div align="center">
+
   # OpenBitX
   
   **From Silicon to Neurons.**
