@@ -8,7 +8,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Focus: AIoT](https://img.shields.io/badge/Focus-AI%20%2B%20Embedded-blueviolet.svg)]()
   [![Philosophy: Open Source](https://img.shields.io/badge/Philosophy-Open%20Source-000000.svg)]()
-  [![中文](https://img.shields.io/badge/Docs-中文-blue.svg)](../README.md)
+  [![中文](https://img.shields.io/badge/Docs-中文-blue.svg)](README_CN.md)
 
   <br/>
   

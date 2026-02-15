@@ -1,83 +1,82 @@
 <div align="center">
-  <img src="assets/videos/output.gif" width="100%" alt="OpenBitX Demo">
   
   # OpenBitX
   
-  **From Silicon to Neurons.**
+  **从硅片到神经元。**
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Focus: AIoT](https://img.shields.io/badge/Focus-AI%20%2B%20Embedded-blueviolet.svg)]()
   [![Philosophy: Open Source](https://img.shields.io/badge/Philosophy-Open%20Source-000000.svg)]()
-  [![中文](https://img.shields.io/badge/Docs-中文-blue.svg)](../README.md)
+  [![English](https://img.shields.io/badge/Docs-English-red.svg)](README.md)
 
   <br/>
   
-  > "Where the deterministic precision of hardware meets the generative chaos of intelligence."
+  > "硬件的确定性精确与智能的生成混沌在此交汇。"
 </div>
 
 ---
 
-## 🌌 Vision
+## 🌌 愿景
 
-**OpenBitX** is dedicated to dissolving the boundary between **physical constraints** and **digital intelligence**.
+**OpenBitX** 致力于消解**物理约束**与**数字智能**之间的边界。
 
-In a world where AI is becoming ubiquitous, we believe the next frontier is not just in the cloud, but at **the edge** — in sensors, in microcontrollers, in robotic actuators that interact with the real world.
+在 AI 日益普及的世界中,我们相信下一个前沿不仅在云端,更在**边缘** — 在传感器、微控制器、与真实世界交互的机器人执行器中。
 
-Our mission is to build the **nervous system** for the next generation of intelligent devices:
+我们的使命是为下一代智能设备构建**神经系统**：
 
-1.  **Sense** — through high-fidelity hardware abstraction
-2.  **Reason** — through lightweight edge-native AI models
-3.  **Act** — through precise, low-latency control strategies
-
----
-
-## 🧬 The "Bit-X" Core Philosophy
-
-Our organization is built on the fusion of two distinct worlds:
-
-### 01. The Realm of "Bit" (The Body of Hardware)
-
-_The uncompromising reality of physics and hardware._
-
-- **Focus:** Embedded systems (ESP32, STM32, RISC-V), Real-Time Operating Systems (RTOS), drivers and protocols
-- **Values:** Efficiency, determinism, low-latency, stability
-
-### 02. The Realm of "X" (The Heart of Intelligence)
-
-_The infinite possibilities of algorithmic strategies and AI._
-
-- **Focus:** Edge AI, Large Language Models (LLMs), Computer Vision, multi-agent systems and decision strategies
-- **Values:** Adaptability, context-awareness, learning capability, evolutionary progression
+1.  **感知** — 通过高保真硬件抽象
+2.  **推理** — 通过轻量级边缘原生 AI 模型
+3.  **行动** — 通过精确、低延迟的控制策略
 
 ---
 
-## 🔭 Exploration Domains
+## 🧬 "Bit-X" 核心哲学
 
-We don't just write code; we architect solutions for:
+我们的组织建立在两个截然不同的世界的融合之上：
 
-- **🧠 Embedded Intelligence**: Running inference on constrained devices (TinyML)
-- **🕸️ Swarm Connectivity**: Decentralized communication architectures (Mesh, MQTT, FastDDS)
-- **🤖 Autonomous Agents**: Giving machines a "soul" — letting hardware think before it acts
-- **📊 Human-Machine Symbiosis**: Visualizing invisible data flows through modern responsive frontends
+### 01. "Bit" 领域（硬件之躯）
+
+_物理与硬件的不妥协现实。_
+
+- **关注点：** 嵌入式系统（ESP32、STM32、RISC-V）、实时操作系统（RTOS）、驱动程序和协议
+- **价值观：** 效率、确定性、低延迟、稳定性
+
+### 02. "X" 领域（智能之心）
+
+_算法策略与 AI 的无限可能。_
+
+- **关注点：** 边缘 AI、大语言模型（LLMs）、计算机视觉、多智能体系统和决策策略
+- **价值观：** 适应性、上下文感知、学习能力、演化进步
 
 ---
 
-## 📜 Open Source License
+## 🔭 探索领域
 
-We believe in true innovation freedom.
+我们不仅仅编写代码；我们为以下领域架构解决方案：
 
-All projects under the **OpenBitX** organization are released under the **[MIT License](https://opensource.org/licenses/MIT)**.
+- **🧠 嵌入式智能**：在受限设备上运行推理（TinyML）
+- **🕸️ 群体连接**：去中心化通信架构（Mesh、MQTT、FastDDS）
+- **🤖 自主智能体**：赋予机器"灵魂" — 让硬件在行动前先思考
+- **📊 人机共生**：通过现代响应式前端可视化无形的数据流
 
-- **You can use it.**
-- **You can modify it.**
-- **You can sell it.**
-- **You can build the future with it.**
+---
+
+## 📜 开源许可
+
+我们相信真正的创新自由。
+
+**OpenBitX** 组织下的所有项目均采用 **[MIT 许可证](https://opensource.org/licenses/MIT)** 发布。
+
+- **你可以使用它。**
+- **你可以修改它。**
+- **你可以出售它。**
+- **你可以用它构建未来。**
 
 ---
 
 <div align="center">
-  <h3>Join the Fusion Journey.</h3>
-  <p>Whether you speak <code>0x00</code> or <code>vectors</code>, you're welcome here.</p>
+  <h3>加入融合之旅。</h3>
+  <p>无论你说的是 <code>0x00</code> 还是 <code>vectors</code>，这里都欢迎你。</p>
   
   <sub>© 2026 OpenBitX Organization</sub>
 </div>
