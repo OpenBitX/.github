@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="assets/videos/output.gif" width="100%" alt="OpenBitX Demo">
-  
   # OpenBitX
   
   **From Silicon to Neurons.**
