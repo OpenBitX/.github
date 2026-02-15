@@ -1,82 +1,73 @@
 <div align="center">
 
-  # OpenBitX
-  
-  **From Silicon to Neurons.**
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![Focus: AIoT](https://img.shields.io/badge/Focus-AI%20%2B%20Embedded-blueviolet.svg)]()
-  [![Philosophy: Open Source](https://img.shields.io/badge/Philosophy-Open%20Source-000000.svg)]()
-  [![中文](https://img.shields.io/badge/Docs-中文-blue.svg)](README_CN.md)
+# OpenBitX
 
-  <br/>
-  
-  > "Where the deterministic precision of hardware meets the generative chaos of intelligence."
+**From silicon lattice to neural synapses.**
+
+[![Website](https://img.shields.io/badge/Website-openbitx.github.io-00d9ff.svg?style=flat-square)](https://openbitx.github.io/openbitx-web/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Stack](https://img.shields.io/badge/Stack-Embedded%20%2B%20AI-blueviolet.svg?style=flat-square)]()
+[![中文](https://img.shields.io/badge/Docs-中文-blue.svg?style=flat-square)](README_CN.md)
+
+> "In the pulse of oscillators, capture emergent logic."
+
 </div>
 
 ---
 
-## 🌌 Vision
+## ⚡ Entropy & Order
 
-**OpenBitX** is dedicated to dissolving the boundary between **physical constraints** and **digital intelligence**.
+**OpenBitX** doesn't build apps. We build mappings.
 
-In a world where AI is becoming ubiquitous, we believe the next frontier is not just in the cloud, but at **the edge** — in sensors, in microcontrollers, in robotic actuators that interact with the real world.
+Compute is squandered in cloud abstraction layers. We choose to trace back to the depths—establishing narrow-bandwidth, low-latency logic channels between constrained physical resources (Determinism) and divergent intelligence probabilities (Stochasticity).
 
-Our mission is to build the **nervous system** for the next generation of intelligent devices:
-
-1.  **Sense** — through high-fidelity hardware abstraction
-2.  **Reason** — through lightweight edge-native AI models
-3.  **Act** — through precise, low-latency control strategies
+True intelligence shouldn't be imprisoned in data centers. It should flow through sensor pulses.
 
 ---
 
-## 🧬 The "Bit-X" Core Philosophy
+## 🧬 Core Architecture: Bit / X
 
-Our organization is built on the fusion of two distinct worlds:
+We reject bloat. We focus on two forms of logic:
 
-### 01. The Realm of "Bit" (The Body of Hardware)
+### 0x01. Bit (Substrate Rhythm)
 
-_The uncompromising reality of physics and hardware._
+*The Physics of Logic.*
 
-- **Focus:** Embedded systems (ESP32, STM32, RISC-V), Real-Time Operating Systems (RTOS), drivers and protocols
-- **Values:** Efficiency, determinism, low-latency, stability
+- **Hard Constraints:** ESP32/STM32 bare-metal performance, DMA throughput, RTOS millisecond scheduling
+- **Aesthetics:** Determinism, memory safety, instruction set utilization
 
-### 02. The Realm of "X" (The Heart of Intelligence)
+### 0x0X. X (Probabilistic Evolution)
 
-_The infinite possibilities of algorithmic strategies and AI._
+*The Ghost in the Machine.*
 
-- **Focus:** Edge AI, Large Language Models (LLMs), Computer Vision, multi-agent systems and decision strategies
-- **Values:** Adaptability, context-awareness, learning capability, evolutionary progression
-
----
-
-## 🔭 Exploration Domains
-
-We don't just write code; we architect solutions for:
-
-- **🧠 Embedded Intelligence**: Running inference on constrained devices (TinyML)
-- **🕸️ Swarm Connectivity**: Decentralized communication architectures (Mesh, MQTT, FastDDS)
-- **🤖 Autonomous Agents**: Giving machines a "soul" — letting hardware think before it acts
-- **📊 Human-Machine Symbiosis**: Visualizing invisible data flows through modern responsive frontends
+- **Intelligence Mapping:** TinyML quantization collapse, edge-side LLM tradeoffs, multi-agent coordination in Mesh networks
+- **Aesthetics:** Adaptability, context-awareness, nonlinear emergence
 
 ---
 
-## 📜 Open Source License
+## 🛠 The Labs
 
-We believe in true innovation freedom.
+We architect digital organisms:
 
-All projects under the **OpenBitX** organization are released under the **[MIT License](https://opensource.org/licenses/MIT)**.
+- **[ 🧠 ] Deep-Edge Inference** — Reviving neural networks in KB-scale memory
+- **[ 🕸️ ] Neural Mesh** — Distributed neuron communication via FastDDS/MQTT
+- **[ 🤖 ] Autonomous Logic** — Hardware beyond instruction sets, into policy-driven era
+- **[ 📊 ] Flux Vis** — Capturing invisible signal flows with React/Vite
 
-- **You can use it.**
-- **You can modify it.**
-- **You can sell it.**
-- **You can build the future with it.**
+---
+
+## 📜 Freedom Protocol
+
+**Code is Poetry. Poetry is Free.**
+
+All projects under OpenBitX follow the **[MIT License](https://opensource.org/licenses/MIT)**.
+No bureaucratic restrictions. Only pure code distribution.
 
 ---
 
 <div align="center">
-  <h3>Join the Fusion Journey.</h3>
-  <p>Whether you speak <code>0x00</code> or <code>vectors</code>, you're welcome here.</p>
-  
-  <sub>© 2026 OpenBitX Organization</sub>
+<h3>Input <code>0x00</code>, output <code>Inference</code>.</h3>
+<p>Join this experiment on bits and neurons.</p>
+
+<sub>`uptime: 2026.02.16 | status: stable`</sub>
 </div>

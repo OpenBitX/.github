@@ -1,82 +1,73 @@
 <div align="center">
-  
-  # OpenBitX
-  
-  **从硅片到神经元。**
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![Focus: AIoT](https://img.shields.io/badge/Focus-AI%20%2B%20Embedded-blueviolet.svg)]()
-  [![Philosophy: Open Source](https://img.shields.io/badge/Philosophy-Open%20Source-000000.svg)]()
-  [![English](https://img.shields.io/badge/Docs-English-red.svg)](README.md)
 
-  <br/>
-  
-  > "硬件的确定性精确与智能的生成混沌在此交汇。"
+# OpenBitX
+
+**从硅基晶格到神经突触。**
+
+[![Website](https://img.shields.io/badge/Website-openbitx.github.io-00d9ff.svg?style=flat-square)](https://openbitx.github.io/openbitx-web/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Stack](https://img.shields.io/badge/Stack-Embedded%20%2B%20AI-blueviolet.svg?style=flat-square)]()
+[![English](https://img.shields.io/badge/Docs-English-red.svg?style=flat-square)](README.md)
+
+> "在晶振的脉冲中，捕获涌现的逻辑。"
+
 </div>
 
 ---
 
-## 🌌 愿景
+## ⚡ 熵与秩序
 
-**OpenBitX** 致力于消解**物理约束**与**数字智能**之间的边界。
+**OpenBitX** 不做应用，我们构建映射。
 
-在 AI 日益普及的世界中,我们相信下一个前沿不仅在云端,更在**边缘** — 在传感器、微控制器、与真实世界交互的机器人执行器中。
+算力被挥霍在云端的抽象层中。我们选择向深处回溯——在受限的物理资源（Determinism）与发散的智能概率（Stochasticity）之间，建立窄带宽、低延迟的逻辑通道。
 
-我们的使命是为下一代智能设备构建**神经系统**：
-
-1.  **感知** — 通过高保真硬件抽象
-2.  **推理** — 通过轻量级边缘原生 AI 模型
-3.  **行动** — 通过精确、低延迟的控制策略
+真正的智能不应被囚禁在数据中心，而应流淌在传感器的脉冲里。
 
 ---
 
-## 🧬 "Bit-X" 核心哲学
+## 🧬 核心架构：Bit / X
 
-我们的组织建立在两个截然不同的世界的融合之上：
+我们拒绝臃肿，只关注逻辑的两种形态：
 
-### 01. "Bit" 领域（硬件之躯）
+### 0x01. Bit (底层律动)
 
-_物理与硬件的不妥协现实。_
+*The Physics of Logic.*
 
-- **关注点：** 嵌入式系统（ESP32、STM32、RISC-V）、实时操作系统（RTOS）、驱动程序和协议
-- **价值观：** 效率、确定性、低延迟、稳定性
+- **硬核约束：** ESP32/STM32 裸机性能、DMA 吞吐、RTOS 毫秒级调度
+- **美学：** 确定性、内存安全、指令集极致利用
 
-### 02. "X" 领域（智能之心）
+### 0x0X. X (概率演化)
 
-_算法策略与 AI 的无限可能。_
+*The Ghost in the Machine.*
 
-- **关注点：** 边缘 AI、大语言模型（LLMs）、计算机视觉、多智能体系统和决策策略
-- **价值观：** 适应性、上下文感知、学习能力、演化进步
-
----
-
-## 🔭 探索领域
-
-我们不仅仅编写代码；我们为以下领域架构解决方案：
-
-- **🧠 嵌入式智能**：在受限设备上运行推理（TinyML）
-- **🕸️ 群体连接**：去中心化通信架构（Mesh、MQTT、FastDDS）
-- **🤖 自主智能体**：赋予机器"灵魂" — 让硬件在行动前先思考
-- **📊 人机共生**：通过现代响应式前端可视化无形的数据流
+- **智能映射：** TinyML 量化坍缩、边缘侧 LLM 权衡、Mesh 网络多智能体协同
+- **美学：** 适应性、上下文感知、非线性涌现
 
 ---
 
-## 📜 开源许可
+## 🛠 实验场
 
-我们相信真正的创新自由。
+我们架构数字生命体：
 
-**OpenBitX** 组织下的所有项目均采用 **[MIT 许可证](https://opensource.org/licenses/MIT)** 发布。
+- **[ 🧠 ] Deep-Edge Inference** — 在 KB 级内存中复活神经网络
+- **[ 🕸️ ] Neural Mesh** — 基于 FastDDS/MQTT 的分布式神经元通讯
+- **[ 🤖 ] Autonomous Logic** — 让硬件脱离指令集，进入策略驱动时代
+- **[ 📊 ] Flux Vis** — 用 React/Vite 捕获不可见的信号流
 
-- **你可以使用它。**
-- **你可以修改它。**
-- **你可以出售它。**
-- **你可以用它构建未来。**
+---
+
+## 📜 自由协议
+
+**Code is Poetry. Poetry is Free.**
+
+OpenBitX 旗下所有项目均遵循 **[MIT License](https://opensource.org/licenses/MIT)**。
+没有繁琐的限制，只有代码的纯粹分发。
 
 ---
 
 <div align="center">
-  <h3>加入融合之旅。</h3>
-  <p>无论你说的是 <code>0x00</code> 还是 <code>vectors</code>，这里都欢迎你。</p>
-  
-  <sub>© 2026 OpenBitX Organization</sub>
+<h3>输入 <code>0x00</code>，输出 <code>Inference</code>。</h3>
+<p>加入这场关于比特与神经元的实验。</p>
+
+<sub>`uptime: 2026.02.16 | status: stable`</sub>
 </div>
